@@ -9,13 +9,3 @@ cds:
       users:
         - name: ivan
           password: 123456
-          additional:
-            firstName: ivan
-            lastName: danin
-            email: ivan.danin
-          roles:
-            - Administrators
-          additional:
-            firstName: ivan
-            lastName: danin
-            email: ivan.danin
